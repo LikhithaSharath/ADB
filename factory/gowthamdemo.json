@@ -1,0 +1,9 @@
+{
+	"name": "gowthamdemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7aff5ada-8767-4355-9b1c-803d35123599",
+		"tenantId": "adb53b4f-b05f-4dcb-a2e1-9111380568c3"
+	}
+}
